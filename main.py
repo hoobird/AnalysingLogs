@@ -2,7 +2,7 @@ import os
 
 # Get a list of all log files in the Logs directory Hint: Use the os.listdir() function
 log_files = os.listdir('./Logs')
-# print(log_files)
+print(log_files)
 
 
 # Process each log file Hint: Use a for loop to iterate over the log files
